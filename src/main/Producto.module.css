@@ -1,0 +1,57 @@
+.background {
+    background-color: black;
+    color: white;
+    max-width: fit-content;
+    font-size: medium;
+    border-radius: 10rem;
+    padding: .2rem .8rem;
+    margin-right: .5rem;
+}
+
+.pie {
+    height: 80px;
+}
+
+.imagen_referencia_producto {
+    background-color: whitesmoke;
+
+    width: 100%;
+    height: auto;
+
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: darkgray;
+    border-width: 1px;
+}
+
+.color_pro {
+    width: 30px;
+    height: 30px;
+    border-radius: 10rem;
+    margin: 0 auto;
+
+}
+
+.contenedor {
+    position: relative;
+    margin: 0 auto;
+}
+
+.diagonal {
+    position: absolute;
+    top: 50%;
+    margin-top: -2px;
+    transform: rotate(135deg);
+    background-color: red;
+    width: 30px;
+    height: 4px;
+}
+
+.circulo {
+    border-color: red;
+    border-style: solid;
+    border-radius: 10rem;
+    border-width: 4px;
+    width: 30px;
+    height: 30px;
+}
