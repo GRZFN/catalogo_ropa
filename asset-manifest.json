@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/catalogo_ropa/static/css/main.48c8ddff.css",
-    "main.js": "/catalogo_ropa/static/js/main.be3718d3.js",
+    "main.js": "/catalogo_ropa/static/js/main.e9df882a.js",
     "static/js/787.1c300d9b.chunk.js": "/catalogo_ropa/static/js/787.1c300d9b.chunk.js",
     "index.html": "/catalogo_ropa/index.html",
     "main.48c8ddff.css.map": "/catalogo_ropa/static/css/main.48c8ddff.css.map",
-    "main.be3718d3.js.map": "/catalogo_ropa/static/js/main.be3718d3.js.map",
+    "main.e9df882a.js.map": "/catalogo_ropa/static/js/main.e9df882a.js.map",
     "787.1c300d9b.chunk.js.map": "/catalogo_ropa/static/js/787.1c300d9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48c8ddff.css",
-    "static/js/main.be3718d3.js"
+    "static/js/main.e9df882a.js"
   ]
 }
