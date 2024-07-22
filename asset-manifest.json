@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/catalogo_ropa/static/css/main.cb1a66be.css",
-    "main.js": "/catalogo_ropa/static/js/main.9b0e5cd5.js",
+    "main.js": "/catalogo_ropa/static/js/main.381efd6f.js",
     "static/js/787.1c300d9b.chunk.js": "/catalogo_ropa/static/js/787.1c300d9b.chunk.js",
-    "static/media/img_5.webp": "/catalogo_ropa/static/media/img_5.83dcc672c88c021d7056.webp",
-    "static/media/img_4.webp": "/catalogo_ropa/static/media/img_4.37ae7461186f9f058544.webp",
+    "static/media/img_5.webp": "/catalogo_ropa/static/media/img_5.7f8738d93f9e78e8446a.webp",
+    "static/media/img_4.webp": "/catalogo_ropa/static/media/img_4.63959f756128c1511d54.webp",
     "static/media/img_6.webp": "/catalogo_ropa/static/media/img_6.b04091a9cbc69766aa03.webp",
-    "static/media/img_3.webp": "/catalogo_ropa/static/media/img_3.9ae556fd85a0f08cf8e7.webp",
+    "static/media/img_3.webp": "/catalogo_ropa/static/media/img_3.979bfaa1f37587598d3c.webp",
     "static/media/img_1.webp": "/catalogo_ropa/static/media/img_1.f2a5a46e01e4ac1d51d6.webp",
     "static/media/img_2.webp": "/catalogo_ropa/static/media/img_2.f1a7e16f7781a79f70d3.webp",
     "static/media/img_8.webp": "/catalogo_ropa/static/media/img_8.062a736639741b7b9bef.webp",
@@ -14,11 +14,11 @@
     "static/media/GraficoMedidas.png": "/catalogo_ropa/static/media/GraficoMedidas.38fbd2835102b932ccf1.png",
     "index.html": "/catalogo_ropa/index.html",
     "main.cb1a66be.css.map": "/catalogo_ropa/static/css/main.cb1a66be.css.map",
-    "main.9b0e5cd5.js.map": "/catalogo_ropa/static/js/main.9b0e5cd5.js.map",
+    "main.381efd6f.js.map": "/catalogo_ropa/static/js/main.381efd6f.js.map",
     "787.1c300d9b.chunk.js.map": "/catalogo_ropa/static/js/787.1c300d9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb1a66be.css",
-    "static/js/main.9b0e5cd5.js"
+    "static/js/main.381efd6f.js"
   ]
 }
